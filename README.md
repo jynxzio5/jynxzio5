@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jnx (jynxzio5)</h1>
+<p align="center">
+  <img src="https://github.com/jynxzio5.png?size=200" alt="Jnx" width="150" style="border-radius: 50%;" />
+</p>
 <h3 align="center">A Passionate Vibecoder and Developer</h3>
 
 <p align="center">
