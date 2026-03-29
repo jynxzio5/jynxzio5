@@ -1,64 +1,49 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Jnx%20(jynxzio5)&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Passionate%20Vibecoder%20and%20Developer&descAlignY=72&descAlign=50" width="100%" />
-</div>
+<h1 align="center">Hi 👋, I'm Jnx (jynxzio5)</h1>
+<h3 align="center">A Passionate Vibecoder and Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=27E8A7&center=true&vCenter=true&width=600&lines=Building+Robust+Software+Architecture...;Crafting+Desktop+Applications+and+Utilities...;Creating+Intricate+Discord+Bots...;Full-Stack+and+Security+Enthusiast..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+Robust+Software+Architecture;Desktop+Applications+and+Utilities;Intricate+Discord+Bot+Creator;Full-Stack+and+Security+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jynxzio5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://discord.gg/evuchXXC3" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Join%20My%20Server-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://github.com/jynxzio5">
-    <img src="https://img.shields.io/github/followers/jynxzio5?label=Followers&style=for-the-badge&color=2ea043&logo=github" alt="Followers" />
+</p>
+
+
+
+---
+
+### About Me
+
+Welcome to my profile! I'm a developer who enjoys building robust applications, exploring software architecture, and optimizing user experiences. My recent work spans across creating full-featured desktop software, web tools, and Discord integrations.
+
+**What I've been working on:**
+- **Software Architecture & Security**: Auditing and hardening application security, and refactoring project architectures for better maintainability and performance.
+- **Desktop & Utilities Applications**: Developing tools like **Opela Nexus** (a localized desktop store application with complex features), **op-loader**, and **Clicky**.
+- **Discord Bots**: Building intricate Discord bots utilizing role-based access controls and customized game integrations (like Resident Evil logic).
+- **Full-Stack Development**: Handling everything from localized JSON data normalization and Discord API mapping to UI component styling and React/Next.js frontend design.
+
+---
+
+### Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,python,js,ts,nodejs,react,nextjs,vue,tailwind,docker,mongodb,redis,qt&perline=8" alt="Tech Stack" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jynxzio5&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </p>
 
 ---
 
-<br>
+### GitHub Stats
 
-<a href="https://skillicons.dev">
-  <img align="right" src="https://skillicons.dev/icons?i=c,cpp,cs,rust,python,js,ts,nodejs,react,nextjs,vue,tailwind,docker,mongodb,redis,qt&perline=4" alt="Tech Stack" />
-</a>
 
-## 👨‍💻 About My Workspace
-
-Welcome to my digital lab! I'm a passionate developer building robust applications, exploring software architecture, and optimizing user experiences.
-
-**Currently focused on:**
-- 🛡️ **Security & Architecture:** Auditing and hardening applications, refactoring codebases.
-- 💻 **Desktop Tools:** Opela Nexus, op-loader, and Clicky.
-- 🤖 **Discord Bots:** Advanced bots with RBAC and complex game integrations.
-- 🌍 **Full-Stack:** Complex data normalization, API mapping, and modern frontends.
-
-<br clear="both">
-
-<br>
-
----
-
-## 🏆 Achievements & Stats
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jynxzio5&theme=dracula&margin-w=15&row=1&column=7&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
-</div>
-
-<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jynxzio5&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=27E8A7&title_color=27E8A7" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jynxzio5&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=27E8A7&title_color=27E8A7" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jynxzio5&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jynxzio5&theme=tokyonight&hide_border=true&background=0d1117&ring=27E8A7&fire=27E8A7&currStreakNum=ffffff" alt="GitHub Streak" />
-</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" />
-</div>
