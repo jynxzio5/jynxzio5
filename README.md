@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:0e75b6&height=250&section=header&text=Jnx%20(jynxzio5)&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Passionate%20Vibecoder%20%26%20Developer&descAlignY=72&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:0e75b6&height=250&section=header&text=Jnx%20(jynxzio5)&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Passionate%20Vibecoder%20and%20Developer&descAlignY=72&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+Robust+Software+Architecture;Desktop+Applications+%26+Utilities;Intricate+Discord+Bot+Creator;Full-Stack+%26+Security+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+Robust+Software+Architecture;Desktop+Applications+and+Utilities;Intricate+Discord+Bot+Creator;Full-Stack+and+Security+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
