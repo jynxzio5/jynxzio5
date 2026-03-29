@@ -42,7 +42,9 @@ Welcome to my profile! I'm a developer who enjoys building robust applications, 
 
 ### GitHub Stats
 
-
+<p align="center">
+  <img src="github-metrics.svg" alt="Advanced GitHub Metrics" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jynxzio5&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
