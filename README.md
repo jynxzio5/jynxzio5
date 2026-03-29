@@ -1,13 +1,21 @@
-<h1 align="center">Hi, I'm Jnx (jynxzio5)</h1>
-<h3 align="center">A Passionate Vibecoder & Developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:0e75b6&height=250&section=header&text=Jnx%20(jynxzio5)&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Passionate%20Vibecoder%20%26%20Developer&descAlignY=72&descAlign=50" width="100%" />
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+Robust+Software+Architecture;Desktop+Applications+%26+Utilities;Intricate+Discord+Bot+Creator;Full-Stack+%26+Security+Enthusiast" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jynxzio5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://discord.gg/evuchXXC3" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jynxzio5&margin-w=15" alt="jynxzio5 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jynxzio5&theme=tokyonight&margin-w=15&row=1&column=7" alt="jynxzio5 trophies" />
   </a>
 </p>
 
@@ -38,26 +46,14 @@ Welcome to my profile! I'm a developer who enjoys building robust applications, 
 ### GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/jynxzio5">
-    <img src="https://github-readme-stats.vercel.app/api?username=jynxzio5&show_icons=true&locale=en" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/jynxzio5">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jynxzio5&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="48%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jynxzio5&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jynxzio5&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/jynxzio5">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jynxzio5" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jynxzio5&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
 </p>
 
----
-
-### Connect with me
-
-<p align="center">
-  <a href="https://discord.gg/evuchXXC3" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:0e75b6&height=100&section=footer" width="100%" />
+</div>
