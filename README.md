@@ -35,16 +35,20 @@ Welcome to my profile! I'm a developer who enjoys building robust applications, 
 
 ---
 
-### Codebase Snapshot
+### Opela Nexus Codebase Snapshot
 
 <table align="center">
   <tr>
     <td align="center" width="180"><strong>98</strong><br/>Files</td>
-    <td align="center" width="180"><strong>23,519</strong><br/>Code lines</td>
+    <td align="center" width="180"><strong>23,519</strong><br/>Lines of code</td>
     <td align="center" width="180"><strong>2,312</strong><br/>Blank lines</td>
     <td align="center" width="180"><strong>688</strong><br/>Comment lines</td>
   </tr>
 </table>
+
+<p align="center">
+  <strong>Opela Nexus spans 23,519 lines of code</strong>, with its core built across JSON, CSS, TypeScript, and Rust.
+</p>
 
 #### Top Languages
 
