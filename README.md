@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/jynxzio5.png?size=200" alt="Jnx" width="150" style="border-radius: 50%;" />
 </p>
+<h1 align="center">Opela Nexus</h1>
 <h3 align="center">A Passionate Vibecoder and Developer</h3>
 
 <p align="center">
@@ -12,6 +13,10 @@
   <a href="https://discord.gg/evuchXXC3" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
+</p>
+
+<p align="center">
+  <em>Opela Nexus is the current showcase: a large, multi-language codebase focused on desktop tooling, web UI, and integration-heavy product engineering.</em>
 </p>
 
 
@@ -27,6 +32,46 @@ Welcome to my profile! I'm a developer who enjoys building robust applications, 
 - **Desktop & Utilities Applications**: Developing tools like **Opela Nexus** (a localized desktop store application with complex features), **op-loader**, and **Clicky**.
 - **Discord Bots**: Building intricate Discord bots utilizing role-based access controls and customized game integrations (like Resident Evil logic).
 - **Full-Stack Development**: Handling everything from localized JSON data normalization and Discord API mapping to UI component styling and React/Next.js frontend design.
+
+---
+
+### Codebase Snapshot
+
+<table align="center">
+  <tr>
+    <td align="center" width="180"><strong>98</strong><br/>Files</td>
+    <td align="center" width="180"><strong>23,519</strong><br/>Code lines</td>
+    <td align="center" width="180"><strong>2,312</strong><br/>Blank lines</td>
+    <td align="center" width="180"><strong>688</strong><br/>Comment lines</td>
+  </tr>
+</table>
+
+#### Top Languages
+
+| Language | Files | Code |
+| --- | ---: | ---: |
+| JSON | 13 | 7,516 |
+| CSS | 20 | 6,774 |
+| TypeScript | 29 | 4,955 |
+| Rust | 19 | 3,421 |
+| C++ | 1 | 487 |
+
+#### Additional Stack
+
+| Language | Files | Code |
+| --- | ---: | ---: |
+| Markdown | 1 | 92 |
+| C/C++ Header | 3 | 71 |
+| JavaScript | 3 | 63 |
+| TOML | 1 | 47 |
+| PowerShell | 1 | 43 |
+| HTML | 2 | 33 |
+| XML | 2 | 9 |
+| SVG | 3 | 8 |
+
+<p align="center">
+  <strong>Signal from the stats:</strong> this project is built around a dense TypeScript and CSS surface area, backed by Rust and structured data assets for a polished cross-language product.
+</p>
 
 ---
 
