@@ -1,102 +1,151 @@
 <p align="center">
-  <img src="https://github.com/jynxzio5.png?size=200" alt="Jnx" width="150" style="border-radius: 50%;" />
-</p>
-<h1 align="center">Opela Nexus</h1>
-<h3 align="center">A Passionate Vibecoder and Developer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+Robust+Software+Architecture;Desktop+Applications+and+Utilities;Intricate+Discord+Bot+Creator;Full-Stack+and+Security+Enthusiast" alt="Typing SVG" />
+  <img src="assets/banner.svg" alt="Opela Nexus // JNX Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jynxzio5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Architecting+Opela+Nexus+%26+Desktop+Suites;%F0%9F%9B%A0%EF%B8%8F+Rust+%7C+C%2B%2B+%7C+C%23+%7C+TypeScript+Engineer;%F0%9F%95%B9%EF%B8%8F+Reverse+Engineering+%26+Game+Memory+Loaders;%F0%9F%A4%96+Intricate+Discord+Bot+Systems+%26+Role+Engines;%F0%9F%8C%90+High-Performance+Full-Stack+Architectures;%F0%9F%94%A5+the+winner+takes+it+all+%2C+the+loser+has+to+fall" alt="Dynamic Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jynxzio5&label=PROFILE%20VIEWS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
   <a href="https://discord.gg/evuchXXC3" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-Opela%20Nexus-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community" />
   </a>
+  <a href="https://opela.team/" target="_blank">
+    <img src="https://img.shields.io/badge/Portal-Opela.team-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=070a14" alt="Official Website" />
+  </a>
+  <img src="https://img.shields.io/badge/STATUS-VIBECODING-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Live Status" />
 </p>
 
 <p align="center">
-  <em>Opela Nexus is the current showcase: a large, multi-language codebase focused on desktop tooling, web UI, and integration-heavy product engineering.</em>
+  <img src="assets/divider.svg" alt="Animated Divider" width="100%" />
 </p>
 
-
-
----
-
-### About Me
-
-Welcome to my profile! I'm a developer who enjoys building robust applications, exploring software architecture, and optimizing user experiences. My recent work spans across creating full-featured desktop software, web tools, and Discord integrations.
-
-**What I've been working on:**
-- **Software Architecture & Security**: Auditing and hardening application security, and refactoring project architectures for better maintainability and performance.
-- **Desktop & Utilities Applications**: Developing tools like **Opela Nexus** (a localized desktop store application with complex features), **op-loader**, and **Clicky**.
-- **Discord Bots**: Building intricate Discord bots utilizing role-based access controls and customized game integrations (like Resident Evil logic).
-- **Full-Stack Development**: Handling everything from localized JSON data normalization and Discord API mapping to UI component styling and React/Next.js frontend design.
-
----
-
-### Opela Nexus Codebase Snapshot
-
-<table align="center">
-  <tr>
-    <td align="center" width="180"><strong>98</strong><br/>Files</td>
-    <td align="center" width="180"><strong>23,519</strong><br/>Lines of code</td>
-    <td align="center" width="180"><strong>2,312</strong><br/>Blank lines</td>
-    <td align="center" width="180"><strong>688</strong><br/>Comment lines</td>
-  </tr>
-</table>
+### ⚡ System Diagnostics & Environment
 
 <p align="center">
-  <strong>Opela Nexus spans 23,519 lines of code</strong>, with its core built across JSON, CSS, TypeScript, and Rust.
+  <img src="assets/terminal.svg" alt="Neofetch Terminal Card" width="100%" />
 </p>
-
-#### Top Languages
-
-| Language | Files | Code |
-| --- | ---: | ---: |
-| JSON | 13 | 7,516 |
-| CSS | 20 | 6,774 |
-| TypeScript | 29 | 4,955 |
-| Rust | 19 | 3,421 |
-| C++ | 1 | 487 |
-
-#### Additional Stack
-
-| Language | Files | Code |
-| --- | ---: | ---: |
-| Markdown | 1 | 92 |
-| C/C++ Header | 3 | 71 |
-| JavaScript | 3 | 63 |
-| TOML | 1 | 47 |
-| PowerShell | 1 | 43 |
-| HTML | 2 | 33 |
-| XML | 2 | 9 |
-| SVG | 3 | 8 |
 
 <p align="center">
-  <strong>Signal from the stats:</strong> this project is built around a dense TypeScript and CSS surface area, backed by Rust and structured data assets for a polished cross-language product.
+  <img src="assets/divider.svg" alt="Animated Divider" width="100%" />
 </p>
 
----
+### 🛸 About Me
 
-### Languages and Tools
+Welcome to my profile! I'm a developer and vibecoder driven by building robust applications, pushing low-level software architecture, and delivering high-polish user experiences. My work spans high-performance desktop software, game memory injection tooling, modern web ecosystems, and complex Discord bot architectures.
+
+- 🛡️ **Software Architecture & Security**: Auditing, reversing, and hardening application runtimes, crafting modular architectures for performance and defensive integrity.
+- 🖥️ **Desktop & Utilities Ecosystem**: Designing and developing **Opela Nexus** (a localized desktop store application with rich modularity), **Clicky** (specialized gaming automation & macro tool), and native loaders.
+- 🕹️ **Reverse Engineering & Memory Tools**: Creating open-source game loaders like **Mono-Injector** and custom in-game UI menus with real-time memory hooks.
+- 🤖 **Discord Bot Systems**: Building intricate Discord bots utilizing role-based access controls (RBAC) and customized game logic.
+- 🌐 **Full-Stack Craftsmanship**: Handling everything from localized JSON data normalization and Discord API mapping to UI component styling and React / Next.js frontend design.
+
+<p align="center">
+  <img src="assets/divider.svg" alt="Animated Divider" width="100%" />
+</p>
+
+### 🚀 Featured Software & Tooling
+
+<p align="center">
+  <img src="assets/projects.svg" alt="Featured Projects Showcase" width="100%" />
+</p>
+
+<div align="center">
+
+| Project | Type | Description | Repository / Link |
+| :--- | :--- | :--- | :--- |
+| **Opela Nexus** | Desktop Suite | Flagship localized store & utility architecture (23.5k+ LOC) | [opela.team](https://opela.team/) |
+| **Clicky** | Desktop Utility | High-speed auto clicker with built-in macro for Arc Raiders | [jynxzio5/Clicky](https://github.com/jynxzio5/Clicky) |
+| **Mono-Injector** | Loader / Tool | Open-source managed Mono/Unity assembly injector | [jynxzio5/Mono-Injector](https://github.com/jynxzio5/Mono-Injector) |
+| **Gamble Menu** | Game Tooling | Dynamic in-game UI and event hooks for Gamble With Your Friends | [jynxzio5/Gamble-with-friends-Menu](https://github.com/jynxzio5/Gamble-with-friends-Menu) |
+
+</div>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="Animated Divider" width="100%" />
+</p>
+
+### 📊 Opela Nexus Codebase Snapshot
+
+<p align="center">
+  <img src="assets/stats-cards.svg" alt="Opela Nexus Architecture Snapshot" width="100%" />
+</p>
+
+<p align="center">
+  <strong>Opela Nexus spans 23,519 lines of code across 98 files</strong>, engineered across JSON, CSS, TypeScript, and Rust.
+</p>
+
+<div align="center">
+
+#### Top Core Languages
+
+| Language | Files | Code Lines | Share |
+| :--- | :---: | ---: | :--- |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" width="14" height="14"/> **JSON** | 13 | 7,516 | `████████████░░░░░░░` 32.0% |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="14" height="14"/> **CSS** | 20 | 6,774 | `███████████░░░░░░░░` 28.8% |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="14" height="14"/> **TypeScript** | 29 | 4,955 | `████████░░░░░░░░░░░` 21.1% |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" width="14" height="14"/> **Rust** | 19 | 3,421 | `█████░░░░░░░░░░░░░░` 14.5% |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="14" height="14"/> **C++** | 1 | 487 | `█░░░░░░░░░░░░░░░░░░` 2.1% |
+
+#### Auxiliary Stack
+
+| Language | Files | Code Lines | Language | Files | Code Lines |
+| :--- | :---: | ---: | :--- | :---: | ---: |
+| **Markdown** | 1 | 92 | **PowerShell** | 1 | 43 |
+| **C/C++ Header** | 3 | 71 | **HTML** | 2 | 33 |
+| **JavaScript** | 3 | 63 | **XML** | 2 | 9 |
+| **TOML** | 1 | 47 | **SVG** | 3 | 8 |
+
+</div>
+
+<p align="center">
+  <em>Signal from the stats: Dense TypeScript and CSS interface surface area backed by Rust native systems and structured data assets for a responsive, cross-language suite.</em>
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="Animated Divider" width="100%" />
+</p>
+
+### 🛠️ Languages & Arsenal
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,python,js,ts,nodejs,react,nextjs,vue,tailwind,docker,mongodb,redis,qt&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=rust,cpp,c,cs,ts,js,python,react,nextjs,tailwind,nodejs,docker,linux,git,mongodb,redis,postgres,qt&perline=9" alt="Tech Stack Icons" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Systems-Rust%20%7C%20C%2B%2B%20%7C%20C%23-00f0ff?style=flat-square&logo=rust&logoColor=white" alt="Systems" />
+  <img src="https://img.shields.io/badge/Web-TypeScript%20%7C%20React%20%7C%20Next.js-38bdf8?style=flat-square&logo=typescript&logoColor=white" alt="Web" />
+  <img src="https://img.shields.io/badge/Styling-Tailwind%20%7C%20Modern%20CSS-a855f7?style=flat-square&logo=tailwindcss&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Linux%20%7C%20Git-10b981?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
+</p>
 
-### GitHub Stats
+<p align="center">
+  <img src="assets/divider.svg" alt="Animated Divider" width="100%" />
+</p>
+
+### 📈 Live GitHub Metrics & Activity
 
 <p align="center">
   <img src="github-metrics.svg" alt="Advanced GitHub Metrics" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jynxzio5&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jynxzio5&theme=tokyonight&hide_border=true&background=0b1021&ring=00f0ff&fire=ff0055&currStreakNum=00f0ff&currStreakLabel=a855f7&sideNums=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak Stats" />
 </p>
 
+<p align="center">
+  <img src="assets/divider.svg" alt="Animated Divider" width="100%" />
+</p>
 
+### 💬 Motto
+
+<p align="center">
+  <img src="assets/quote.svg" alt="Motto Quote Card" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" alt="Animated Footer" width="100%" />
+</p>

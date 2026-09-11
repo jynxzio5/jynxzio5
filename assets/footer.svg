@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#060913" />
+      <stop offset="100%" stop-color="#0b1021" />
+    </linearGradient>
+
+    <!-- Wave Glow Gradients -->
+    <linearGradient id="waveCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.1" />
+      <stop offset="50%" stop-color="#00f0ff" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0.1" />
+    </linearGradient>
+    <linearGradient id="wavePurple" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.1" />
+      <stop offset="50%" stop-color="#ec4899" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0.1" />
+    </linearGradient>
+
+    <filter id="fGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes waveMove1 {
+      0% { transform: translateX(0); }
+      50% { transform: translateX(-40px); }
+      100% { transform: translateX(0); }
+    }
+    @keyframes waveMove2 {
+      0% { transform: translateX(0); }
+      50% { transform: translateX(40px); }
+      100% { transform: translateX(0); }
+    }
+    @keyframes beaconGlow {
+      0%, 100% { opacity: 0.5; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.3); }
+    }
+    .w1 { animation: waveMove1 6s ease-in-out infinite; }
+    .w2 { animation: waveMove2 8s ease-in-out infinite; }
+    .beacon {
+      transform-origin: 450px 70px;
+      animation: beaconGlow 2s ease-in-out infinite;
+    }
+    .footer-title {
+      font-family: 'JetBrains Mono', 'Fira Code', monospace;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      fill: #cbd5e1;
+    }
+    .footer-sub {
+      font-family: 'Inter', system-ui, sans-serif;
+      font-size: 10px;
+      font-weight: 400;
+      letter-spacing: 1.5px;
+      fill: #64748b;
+    }
+  </style>
+
+  <!-- Container -->
+  <rect width="900" height="130" rx="14" fill="url(#footerBg)" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Animated Wave Lines -->
+  <g class="w1" opacity="0.8">
+    <path d="M -100 28 Q 150 5 450 30 T 1000 20" fill="none" stroke="url(#waveCyan)" stroke-width="1.8" filter="url(#fGlow)" />
+  </g>
+  <g class="w2" opacity="0.6">
+    <path d="M -50 20 Q 250 42 550 18 T 1050 35" fill="none" stroke="url(#wavePurple)" stroke-width="1.5" filter="url(#fGlow)" />
+  </g>
+
+  <!-- Central Beacon Dot -->
+  <g class="beacon">
+    <circle cx="450" cy="62" r="3" fill="#00f0ff" />
+    <circle cx="450" cy="62" r="7" fill="none" stroke="#00f0ff" stroke-width="0.8" opacity="0.7" />
+  </g>
+
+  <!-- Footer Branding -->
+  <text x="450" y="85" text-anchor="middle" class="footer-title">
+    OPELA NEXUS <tspan fill="#00f0ff">•</tspan> HIGH-OCTANE SOFTWARE ARCHITECTURE
+  </text>
+  <text x="450" y="106" text-anchor="middle" class="footer-sub">
+    DESIGNED &amp; BUILT BY JNX <tspan fill="#8b5cf6">⚡</tspan> OPELA.TEAM <tspan fill="#3b82f6">•</tspan> 2026
+  </text>
+</svg>

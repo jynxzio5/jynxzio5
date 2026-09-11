@@ -1,0 +1,249 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 380" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c17" />
+      <stop offset="50%" stop-color="#0c1222" />
+      <stop offset="100%" stop-color="#070a14" />
+    </linearGradient>
+
+    <!-- Header Gradient -->
+    <linearGradient id="headerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradients -->
+    <linearGradient id="cyanPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+
+    <!-- Terminal Border -->
+    <linearGradient id="termBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#3b82f6" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0.6" />
+    </linearGradient>
+
+    <!-- Soft Glow Filter -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes cursorBlink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes greenPulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.85); }
+    }
+    @keyframes logoSpin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    .term-text {
+      font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace;
+      font-size: 13px;
+      line-height: 1.6;
+    }
+    .prompt-user { fill: #00f0ff; font-weight: 700; }
+    .prompt-host { fill: #8b5cf6; font-weight: 700; }
+    .prompt-path { fill: #38bdf8; }
+    .prompt-cmd  { fill: #f8fafc; font-weight: 600; }
+    
+    .label-key   { fill: #00f0ff; font-weight: 700; }
+    .label-val   { fill: #e2e8f0; }
+    .label-dim   { fill: #64748b; }
+    .label-hl    { fill: #a78bfa; font-weight: 600; }
+    .label-green { fill: #34d399; font-weight: 700; }
+    .label-gold  { fill: #fbbf24; font-weight: 600; }
+
+    .cursor {
+      fill: #00f0ff;
+      animation: cursorBlink 1s infinite;
+    }
+    .live-dot {
+      transform-origin: 320px 325px;
+      animation: greenPulse 1.8s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Outer Card Frame -->
+  <rect width="860" height="380" rx="14" fill="url(#termBg)" />
+  <rect width="860" height="380" rx="14" fill="none" stroke="url(#termBorder)" stroke-width="1.5" />
+
+  <!-- Window Header Bar -->
+  <rect width="860" height="36" rx="14" fill="url(#headerBg)" />
+  <rect y="24" width="860" height="12" fill="#111827" />
+  <line x1="0" y1="36" x2="860" y2="36" stroke="#1e293b" stroke-width="1" />
+
+  <!-- macOS Window Dots -->
+  <circle cx="22" cy="18" r="6" fill="#ef4444" />
+  <circle cx="42" cy="18" r="6" fill="#f59e0b" />
+  <circle cx="62" cy="18" r="6" fill="#10b981" />
+
+  <!-- Window Title -->
+  <text x="430" y="22" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#94a3b8" text-anchor="middle" font-weight="600" letter-spacing="1">
+    jnx@nexus-core: ~/projects/opela (zsh)
+  </text>
+
+  <!-- Right side header tag -->
+  <text x="830" y="22" font-family="'JetBrains Mono', monospace" font-size="10.5" fill="#475569" text-anchor="end">
+    UTF-8 • x86_64
+  </text>
+
+  <!-- Terminal Content -->
+  <g transform="translate(30, 68)" class="term-text">
+    <!-- Prompt line -->
+    <text x="0" y="0">
+      <tspan class="prompt-user">jnx</tspan>
+      <tspan class="label-dim">@</tspan>
+      <tspan class="prompt-host">nexus-core</tspan>
+      <tspan class="label-dim">:</tspan>
+      <tspan class="prompt-path">~/projects/opela</tspan>
+      <tspan fill="#f43f5e"> ⚡ </tspan>
+      <tspan class="prompt-cmd">neofetch --profile system</tspan>
+    </text>
+
+    <!-- Left ASCII / Cyber Hologram Box -->
+    <g transform="translate(10, 24)">
+      <!-- Cyber Hex / Shield Graphic -->
+      <polygon points="80,10 145,45 145,125 80,160 15,125 15,45" fill="#0b1329" stroke="#00f0ff" stroke-width="1.5" stroke-dasharray="4 2" />
+      <polygon points="80,24 132,53 132,117 80,146 28,117 28,53" fill="#0f172a" stroke="#8b5cf6" stroke-width="1" />
+      <circle cx="80" cy="85" r="28" fill="#1e1b4b" stroke="#38bdf8" stroke-width="1.5" />
+      <text x="80" y="91" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="900" fill="#00f0ff" text-anchor="middle" filter="url(#neonGlow)">JNX</text>
+      
+      <!-- Tech Decals under logo -->
+      <text x="80" y="185" font-family="'JetBrains Mono', monospace" font-size="10" fill="#38bdf8" text-anchor="middle" letter-spacing="2">OPELA // 05</text>
+      <text x="80" y="202" font-family="'JetBrains Mono', monospace" font-size="9" fill="#64748b" text-anchor="middle">REV: 2026.09</text>
+    </g>
+
+    <!-- Right Neofetch System Information Block -->
+    <g transform="translate(210, 28)">
+      <!-- Line 1: OS / Identity -->
+      <text x="0" y="0">
+        <tspan class="label-key">IDENTITY</tspan>
+        <tspan class="label-dim"> ......... </tspan>
+        <tspan class="label-val">JNX</tspan>
+        <tspan class="label-dim"> [</tspan>
+        <tspan class="label-hl">github.com/jynxzio5</tspan>
+        <tspan class="label-dim">]</tspan>
+      </text>
+
+      <!-- Line 2: Role -->
+      <text x="0" y="24">
+        <tspan class="label-key">ROLE</tspan>
+        <tspan class="label-dim"> ............. </tspan>
+        <tspan class="label-val">Systems Architect &amp; Passionate Vibecoder</tspan>
+      </text>
+
+      <!-- Line 3: Ecosystem -->
+      <text x="0" y="48">
+        <tspan class="label-key">SHOWCASE</tspan>
+        <tspan class="label-dim"> ......... </tspan>
+        <tspan class="label-val">Opela Nexus </tspan>
+        <tspan class="label-gold">[23,519 Lines of Code • 98 Files]</tspan>
+      </text>
+
+      <!-- Line 4: Core Stack -->
+      <text x="0" y="72">
+        <tspan class="label-key">CORE STACK</tspan>
+        <tspan class="label-dim"> ....... </tspan>
+        <tspan fill="#60a5fa">Rust</tspan>
+        <tspan class="label-dim"> • </tspan>
+        <tspan fill="#38bdf8">C++</tspan>
+        <tspan class="label-dim"> • </tspan>
+        <tspan fill="#a78bfa">C#</tspan>
+        <tspan class="label-dim"> • </tspan>
+        <tspan fill="#f43f5e">TypeScript</tspan>
+        <tspan class="label-dim"> • </tspan>
+        <tspan fill="#34d399">React/Next.js</tspan>
+      </text>
+
+      <!-- Line 5: Domains -->
+      <text x="0" y="96">
+        <tspan class="label-key">DOMAINS</tspan>
+        <tspan class="label-dim"> .......... </tspan>
+        <tspan class="label-val">Desktop Utilities, Loaders, Bot Architecture</tspan>
+      </text>
+
+      <!-- Line 6: Repositories -->
+      <text x="0" y="120">
+        <tspan class="label-key">SOFTWARE</tspan>
+        <tspan class="label-dim"> ......... </tspan>
+        <tspan class="label-hl">Clicky</tspan>
+        <tspan class="label-dim">, </tspan>
+        <tspan class="label-hl">Mono-Injector</tspan>
+        <tspan class="label-dim">, </tspan>
+        <tspan class="label-hl">Gamble Menu</tspan>
+        <tspan class="label-dim">, </tspan>
+        <tspan class="label-hl">op-loader</tspan>
+      </text>
+
+      <!-- Line 7: Portal -->
+      <text x="0" y="144">
+        <tspan class="label-key">WEB PORTAL</tspan>
+        <tspan class="label-dim"> ....... </tspan>
+        <tspan fill="#00f0ff">https://opela.team/</tspan>
+      </text>
+
+      <!-- Line 8: Motto -->
+      <text x="0" y="168">
+        <tspan class="label-key">MOTTO</tspan>
+        <tspan class="label-dim"> ............ </tspan>
+        <tspan fill="#f1f5f9" font-style="italic">"the winner takes it all, the loser has to fall"</tspan>
+      </text>
+
+      <!-- Line 9: Live Status -->
+      <text x="0" y="194">
+        <tspan class="label-key">LIVE STATUS</tspan>
+        <tspan class="label-dim"> ...... </tspan>
+        <tspan class="label-green">● ONLINE</tspan>
+        <tspan class="label-dim"> — Ready to build &amp; collaborate</tspan>
+      </text>
+
+      <!-- Palette Color Blocks (Neofetch signature) -->
+      <g transform="translate(0, 214)">
+        <rect x="0" y="0" width="24" height="10" fill="#ef4444" rx="2" />
+        <rect x="28" y="0" width="24" height="10" fill="#f97316" rx="2" />
+        <rect x="56" y="0" width="24" height="10" fill="#eab308" rx="2" />
+        <rect x="84" y="0" width="24" height="10" fill="#22c55e" rx="2" />
+        <rect x="112" y="0" width="24" height="10" fill="#06b6d4" rx="2" />
+        <rect x="140" y="0" width="24" height="10" fill="#3b82f6" rx="2" />
+        <rect x="168" y="0" width="24" height="10" fill="#8b5cf6" rx="2" />
+        <rect x="196" y="0" width="24" height="10" fill="#ec4899" rx="2" />
+
+        <rect x="230" y="0" width="24" height="10" fill="#fca5a5" rx="2" />
+        <rect x="258" y="0" width="24" height="10" fill="#fed7aa" rx="2" />
+        <rect x="286" y="0" width="24" height="10" fill="#fef08a" rx="2" />
+        <rect x="314" y="0" width="24" height="10" fill="#bbf7d0" rx="2" />
+        <rect x="342" y="0" width="24" height="10" fill="#a5f3fc" rx="2" />
+        <rect x="370" y="0" width="24" height="10" fill="#bfdbfe" rx="2" />
+        <rect x="398" y="0" width="24" height="10" fill="#ddd6fe" rx="2" />
+        <rect x="426" y="0" width="24" height="10" fill="#fbcfe8" rx="2" />
+      </g>
+
+      <!-- Next command line with blinking cursor -->
+      <g transform="translate(0, 246)">
+        <text x="0" y="0">
+          <tspan class="prompt-user">jnx</tspan>
+          <tspan class="label-dim">@</tspan>
+          <tspan class="prompt-host">nexus-core</tspan>
+          <tspan class="label-dim">:</tspan>
+          <tspan class="prompt-path">~</tspan>
+          <tspan fill="#00f0ff"> $ </tspan>
+          <tspan fill="#f8fafc">vibecode --optimize --all</tspan>
+        </text>
+        <rect x="260" y="-12" width="8" height="15" class="cursor" />
+      </g>
+    </g>
+  </g>
+</svg>
