@@ -10,7 +10,7 @@
     <img src="https://github.com/jynxzio5.png?size=200" width="120" height="120" style="border-radius: 50%;" alt="JNX Avatar" />
   </a>
 
-  <h2>⚡ JNX // OPELA NEXUS</h2>
+  <h2>JNX // OPELA NEXUS</h2>
   <p><strong>Systems Architect • Desktop Software Engineer • Vibecoder</strong></p>
 
   <!-- Dynamic Typing SVG -->
@@ -36,7 +36,7 @@
 
 ---
 
-### 🖥️ System Diagnostics & Environment
+### System Diagnostics & Environment
 
 ```zsh
 ❯ jnx --sysinfo --target opela-nexus
@@ -53,34 +53,34 @@
 
 ---
 
-### 👤 About Me
+### About Me
 
 Welcome to my workspace. I am a software engineer and vibecoder dedicated to low-level systems architecture, high-speed desktop software, and integration-heavy product engineering. My work bridges bare-metal execution speed with refined, modern interfaces.
 
-- ⚙️ **Systems Architecture & Security**: Auditing, reversing, and hardening application runtimes. Crafting modular architectures built for performance and structural reliability.
-- 🪟 **Desktop Suites & Utility Ecosystem**: Engineering **Opela Nexus** (a localized desktop store application with complex modular architecture), **Clicky** (macro & automation engine), and native loaders.
-- 🔬 **Reverse Engineering & Memory Tooling**: Developing open-source assembly loaders such as **Mono-Injector** and real-time in-game UI menus with direct memory offset hooks.
-- 🤖 **Discord Bot Systems**: Designing stateful bot infrastructures equipped with role-based access controls (RBAC), finite state machines, and synchronized game logic.
-- 🌐 **Full-Stack Engineering**: Delivering localized JSON data normalization, low-latency API protocol bindings, and responsive modern user interfaces with TypeScript, React, and Next.js.
+- **Systems Architecture & Security**: Auditing, reversing, and hardening application runtimes. Crafting modular architectures built for performance and structural reliability.
+- **Desktop Suites & Utility Ecosystem**: Engineering **Opela Nexus** (a localized desktop store application with complex modular architecture), **Clicky** (macro & automation engine), and native loaders.
+- **Reverse Engineering & Memory Tooling**: Developing open-source assembly loaders such as **Mono-Injector** and real-time in-game UI menus with direct memory offset hooks.
+- **Discord Bot Systems**: Designing stateful bot infrastructures equipped with role-based access controls (RBAC), finite state machines, and synchronized game logic.
+- **Full-Stack Engineering**: Delivering localized JSON data normalization, low-latency API protocol bindings, and responsive modern user interfaces with TypeScript, React, and Next.js.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <div align="center">
 
 | Project | Role / Type | Tech Stack | Highlights | Access |
 | :--- | :--- | :--- | :--- | :---: |
-| 🛡️ **Opela Nexus** | Desktop Suite & Store | `Rust` `TypeScript` `CSS` | Flagship localized store, launcher & utility architecture (23.5k+ LOC) | [**opela.team ↗**](https://opela.team/) |
-| ⚡ **Clicky** | Desktop Automation | `C#` `Win32` `.NET` | High-speed desktop auto clicker & programmable macro execution engine | [**View Repo ↗**](https://github.com/jynxzio5/Clicky) |
-| 💉 **Mono-Injector** | Loader / Tool | `C++` `Mono` `Assembly` | Open-source managed Mono/Unity assembly injector and runtime loader | [**View Repo ↗**](https://github.com/jynxzio5/Mono-Injector) |
-| 🎯 **Gamble Menu** | Game Tooling & UI | `C++` `Reverse Eng` | Dynamic in-game UI overlay & memory offset hooks for Gamble With Your Friends | [**View Repo ↗**](https://github.com/jynxzio5/Gamble-with-friends-Menu) |
+| **Opela Nexus** | Desktop Suite & Store | `Rust` `TypeScript` `CSS` | Flagship localized store, launcher & utility architecture (23.5k+ LOC) | [**opela.team ↗**](https://opela.team/) |
+| **Clicky** | Desktop Automation | `C#` `Win32` `.NET` | High-speed desktop auto clicker & programmable macro execution engine | [**View Repo ↗**](https://github.com/jynxzio5/Clicky) |
+| **Mono-Injector** | Loader / Tool | `C++` `Mono` `Assembly` | Open-source managed Mono/Unity assembly injector and runtime loader | [**View Repo ↗**](https://github.com/jynxzio5/Mono-Injector) |
+| **Gamble Menu** | Game Tooling & UI | `C++` `Reverse Eng` | Dynamic in-game UI overlay & memory offset hooks for Gamble With Your Friends | [**View Repo ↗**](https://github.com/jynxzio5/Gamble-with-friends-Menu) |
 
 </div>
 
 ---
 
-### 📊 Opela Nexus — Codebase Deep Dive
+### Opela Nexus — Codebase Deep Dive
 
 <p align="center">
   <em>An architectural snapshot of the flagship <strong>Opela Nexus</strong> multi-language suite</em>
@@ -126,7 +126,7 @@ Welcome to my workspace. I am a software engineer and vibecoder dedicated to low
 | **C++** | 1 | 487 | **2.1%** | `█░░░░░░░░░░░░░░░░░░` |
 
 <details>
-<summary><strong>🔍 Click to view Auxiliary Stack Breakdown</strong></summary>
+<summary><strong>Click to view Auxiliary Stack Breakdown</strong></summary>
 <br/>
 
 | Language | Files | Code Lines | Language | Files | Code Lines |
@@ -146,7 +146,7 @@ Welcome to my workspace. I am a software engineer and vibecoder dedicated to low
 
 ---
 
-### 🛠️ Languages, Tools & Frameworks
+### Languages, Tools & Frameworks
 
 <div align="center">
 
@@ -168,7 +168,7 @@ Welcome to my workspace. I am a software engineer and vibecoder dedicated to low
 
 ---
 
-### 📈 GitHub Analytics & Activity
+### GitHub Analytics & Activity
 
 <div align="center">
 
