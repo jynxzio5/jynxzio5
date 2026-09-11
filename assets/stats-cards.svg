@@ -1,153 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 210" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 110" width="100%" height="100%">
   <defs>
-    <!-- Card Backgrounds -->
-    <linearGradient id="cardBg1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b1329" />
-      <stop offset="100%" stop-color="#070b16" />
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b101c" />
+      <stop offset="100%" stop-color="#060911" />
     </linearGradient>
 
-    <!-- Card Borders -->
-    <linearGradient id="cyanBorder" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0.1" />
+    <!-- Language Split Gradient -->
+    <linearGradient id="langBarGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="32%" stop-color="#f59e0b" />
+      <stop offset="32.01%" stop-color="#38bdf8" />
+      <stop offset="60%" stop-color="#38bdf8" />
+      <stop offset="60.01%" stop-color="#3178c6" />
+      <stop offset="81%" stop-color="#3178c6" />
+      <stop offset="81.01%" stop-color="#dea584" />
+      <stop offset="96%" stop-color="#dea584" />
+      <stop offset="96.01%" stop-color="#f34b7d" />
+      <stop offset="100%" stop-color="#f34b7d" />
     </linearGradient>
-    <linearGradient id="purpleBorder" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.1" />
-    </linearGradient>
-    <linearGradient id="blueBorder" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.1" />
-    </linearGradient>
-    <linearGradient id="emeraldBorder" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#10b981" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#10b981" stop-opacity="0.1" />
-    </linearGradient>
-
-    <!-- Progress Bar Gradient -->
-    <linearGradient id="cyanBar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00f0ff" />
-      <stop offset="100%" stop-color="#3b82f6" />
-    </linearGradient>
-    <linearGradient id="purpleBar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#c084fc" />
-      <stop offset="100%" stop-color="#ec4899" />
-    </linearGradient>
-    <linearGradient id="blueBar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8" />
-      <stop offset="100%" stop-color="#6366f1" />
-    </linearGradient>
-    <linearGradient id="emeraldBar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#34d399" />
-      <stop offset="100%" stop-color="#06b6d4" />
-    </linearGradient>
-
-    <!-- Filter -->
-    <filter id="cardGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
   </defs>
 
   <style>
-    @keyframes barPulse {
-      0%, 100% { opacity: 0.7; }
-      50% { opacity: 1; }
-    }
-    @keyframes floatCard {
-      0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-3px); }
-    }
-    .stat-val {
-      font-family: 'JetBrains Mono', 'Fira Code', -apple-system, monospace;
-      font-size: 28px;
-      font-weight: 900;
+    .t-val {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 24px;
+      font-weight: 800;
       letter-spacing: -0.5px;
     }
-    .stat-lbl {
-      font-family: 'Inter', -apple-system, sans-serif;
-      font-size: 11px;
-      font-weight: 600;
+    .t-lbl {
+      font-family: ui-monospace, monospace;
+      font-size: 9.5px;
+      font-weight: 700;
       letter-spacing: 1.5px;
-      fill: #94a3b8;
-    }
-    .stat-sub {
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 10px;
-      font-weight: 500;
       fill: #64748b;
     }
-    .anim-bar {
-      animation: barPulse 2.5s ease-in-out infinite;
+    .t-sub {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 11px;
+      fill: #94a3b8;
     }
-    .c1 { animation: floatCard 4s ease-in-out infinite; }
-    .c2 { animation: floatCard 4s ease-in-out 0.5s infinite; }
-    .c3 { animation: floatCard 4s ease-in-out 1.0s infinite; }
-    .c4 { animation: floatCard 4s ease-in-out 1.5s infinite; }
   </style>
 
-  <!-- CARD 1: 98 Files -->
-  <g transform="translate(0, 5)" class="c1">
-    <rect width="200" height="195" rx="14" fill="url(#cardBg1)" stroke="url(#cyanBorder)" stroke-width="1.2" />
-    <!-- Icon Circle -->
-    <circle cx="36" cy="38" r="16" fill="#082f49" stroke="#0284c7" stroke-width="1" />
-    <path d="M 30 33 L 38 33 L 42 37 L 42 45 L 30 45 Z" fill="none" stroke="#00f0ff" stroke-width="1.5" />
-    <!-- Content -->
-    <text x="36" y="98" fill="#00f0ff" class="stat-val" filter="url(#cardGlow)">98</text>
-    <text x="36" y="122" class="stat-lbl">TOTAL FILES</text>
-    <text x="36" y="142" class="stat-sub">Opela Nexus Repo</text>
-    <!-- Progress Line -->
-    <rect x="36" y="162" width="128" height="4" rx="2" fill="#1e293b" />
-    <rect x="36" y="162" width="105" height="4" rx="2" fill="url(#cyanBar)" class="anim-bar" />
+  <!-- CARD 1: Files -->
+  <g transform="translate(0, 0)">
+    <rect width="200" height="110" rx="6" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1" />
+    <text x="20" y="24" class="t-lbl">PROJECT METRICS</text>
+    <text x="20" y="58" fill="#00f0ff" class="t-val">98</text>
+    <text x="20" y="80" class="t-sub">Modular Project Files</text>
+    <rect x="20" y="93" width="160" height="3" rx="1.5" fill="#1e293b" />
+    <rect x="20" y="93" width="135" height="3" rx="1.5" fill="#00f0ff" />
   </g>
 
-  <!-- CARD 2: 23,519 Lines of Code -->
-  <g transform="translate(220, 5)" class="c2">
-    <rect width="200" height="195" rx="14" fill="url(#cardBg1)" stroke="url(#purpleBorder)" stroke-width="1.2" />
-    <!-- Icon Circle -->
-    <circle cx="36" cy="38" r="16" fill="#3b0764" stroke="#7e22ce" stroke-width="1" />
-    <path d="M 32 38 L 35 34 M 40 42 L 37 42 M 34 38 L 38 38" fill="none" stroke="#c084fc" stroke-width="1.5" />
-    <text x="36" y="42" font-family="monospace" font-size="12" font-weight="900" fill="#c084fc" text-anchor="middle">&lt;/&gt;</text>
-    <!-- Content -->
-    <text x="36" y="98" fill="#c084fc" class="stat-val" filter="url(#cardGlow)">23,519</text>
-    <text x="36" y="122" class="stat-lbl">LINES OF CODE</text>
-    <text x="36" y="142" class="stat-sub">High Density Stack</text>
-    <!-- Progress Line -->
-    <rect x="36" y="162" width="128" height="4" rx="2" fill="#1e293b" />
-    <rect x="36" y="162" width="120" height="4" rx="2" fill="url(#purpleBar)" class="anim-bar" />
+  <!-- CARD 2: Total Lines of Code -->
+  <g transform="translate(220, 0)">
+    <rect width="200" height="110" rx="6" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1" />
+    <text x="20" y="24" class="t-lbl">CODE DENSITY</text>
+    <text x="20" y="58" fill="#f8fafc" class="t-val">23,519</text>
+    <text x="20" y="80" class="t-sub">Total Lines of Code</text>
+    <rect x="20" y="93" width="160" height="3" rx="1.5" fill="url(#langBarGrad)" />
   </g>
 
-  <!-- CARD 3: 4 Core Languages -->
-  <g transform="translate(440, 5)" class="c3">
-    <rect width="200" height="195" rx="14" fill="url(#cardBg1)" stroke="url(#blueBorder)" stroke-width="1.2" />
-    <!-- Icon Circle -->
-    <circle cx="36" cy="38" r="16" fill="#172554" stroke="#1d4ed8" stroke-width="1" />
-    <polygon points="36,28 44,42 28,42" fill="none" stroke="#38bdf8" stroke-width="1.5" />
-    <!-- Content -->
-    <text x="36" y="98" fill="#38bdf8" class="stat-val" filter="url(#cardGlow)">4 CORES</text>
-    <text x="36" y="122" class="stat-lbl">SYSTEM STACK</text>
-    <text x="36" y="142" class="stat-sub">Rust • C++ • C# • TS</text>
-    <!-- Progress Line -->
-    <rect x="36" y="162" width="128" height="4" rx="2" fill="#1e293b" />
-    <rect x="36" y="162" width="112" height="4" rx="2" fill="url(#blueBar)" class="anim-bar" />
+  <!-- CARD 3: Language Cores -->
+  <g transform="translate(440, 0)">
+    <rect width="200" height="110" rx="6" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1" />
+    <text x="20" y="24" class="t-lbl">CORE SYSTEMS</text>
+    <text x="20" y="58" fill="#38bdf8" class="t-val">4 ENGINES</text>
+    <text x="20" y="80" class="t-sub">Rust • C++ • C# • TS</text>
+    <rect x="20" y="93" width="160" height="3" rx="1.5" fill="#1e293b" />
+    <rect x="20" y="93" width="120" height="3" rx="1.5" fill="#38bdf8" />
   </g>
 
-  <!-- CARD 4: 100% Vibecoded Quality -->
-  <g transform="translate(660, 5)" class="c4">
-    <rect width="200" height="195" rx="14" fill="url(#cardBg1)" stroke="url(#emeraldBorder)" stroke-width="1.2" />
-    <!-- Icon Circle -->
-    <circle cx="36" cy="38" r="16" fill="#052e16" stroke="#15803d" stroke-width="1" />
-    <circle cx="36" cy="38" r="4" fill="#34d399" />
-    <circle cx="36" cy="38" r="8" fill="none" stroke="#34d399" stroke-width="1" stroke-dasharray="3 2" />
-    <!-- Content -->
-    <text x="36" y="98" fill="#34d399" class="stat-val" filter="url(#cardGlow)">100%</text>
-    <text x="36" y="122" class="stat-lbl">VIBECODED</text>
-    <text x="36" y="142" class="stat-sub">Engineered to Peak</text>
-    <!-- Progress Line -->
-    <rect x="36" y="162" width="128" height="4" rx="2" fill="#1e293b" />
-    <rect x="36" y="162" width="128" height="4" rx="2" fill="url(#emeraldBar)" class="anim-bar" />
+  <!-- CARD 4: Discipline & Integrity -->
+  <g transform="translate(660, 0)">
+    <rect width="200" height="110" rx="6" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1" />
+    <text x="20" y="24" class="t-lbl">ARCHITECTURE</text>
+    <text x="20" y="58" fill="#10b981" class="t-val">HARDENED</text>
+    <text x="20" y="80" class="t-sub">Low-Level Security Core</text>
+    <rect x="20" y="93" width="160" height="3" rx="1.5" fill="#1e293b" />
+    <rect x="20" y="93" width="160" height="3" rx="1.5" fill="#10b981" />
   </g>
 </svg>
