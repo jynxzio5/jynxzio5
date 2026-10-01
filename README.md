@@ -1,214 +1,315 @@
 <div align="center">
 
-  <!-- Hero Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24&height=220&section=header&text=OPELA%20NEXUS&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=JNX%20%E2%80%A2%20Systems%20Architecture%20%7C%20Desktop%20Suites%20%7C%20Reverse%20Engineering&descSize=15&descAlignY=58&descColor=00f0ff" width="100%" alt="Opela Nexus Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=JNX&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=SYSTEMS%20%E2%80%A2%20DESKTOP%20%E2%80%A2%20SOFTWARE&descAlignY=65&descSize=14&descColor=8b9bb4&color=0:050505,50:0b1220,100:111827" width="100%"/>
 
-  <br/>
+<br>
 
-  <!-- Circular Avatar with Glow Accent -->
-  <a href="https://github.com/jynxzio5">
-    <img src="https://github.com/jynxzio5.png?size=200" width="120" height="120" style="border-radius: 50%;" alt="JNX Avatar" />
-  </a>
+<a href="https://github.com/jynxzio5">
+  <img src="https://github.com/jynxzio5.png?size=160" width="110" height="110" alt="JNX"/>
+</a>
 
-  <h2>JNX // OPELA NEXUS</h2>
-  <p><strong>Systems Architect • Desktop Software Engineer • Vibecoder</strong></p>
+<br><br>
 
-  <!-- Dynamic Typing SVG -->
-  <a href="https://github.com/jynxzio5">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=660&lines=Architecting+Opela+Nexus+(23.5k%2B+LOC);Rust+%2B+C%2B%2B+%2B+C%23+%2B+TypeScript+Engineer;Low-Level+Loaders+%26+Reverse+Engineering;Intricate+Discord+Bot+Architectures+%26+RBAC;High-Performance+Desktop+Tooling;%22the+winner+takes+it+all%2C+the+loser+has+to+fall%22" alt="Typing SVG" />
-  </a>
+# JNX
 
-  <br/><br/>
+**Software Engineer · Systems Builder · Vibecoder**
 
-  <!-- Interactive Telemetry & Social Badges -->
-  <a href="https://discord.gg/evuchXXC3" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Opela%20Nexus-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community" />
-  </a>
-  <a href="https://opela.team/" target="_blank">
-    <img src="https://img.shields.io/badge/Portal-opela.team-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=070a14" alt="Official Website" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=jynxzio5&label=PROFILE%20VIEWS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Online%20%7C%20Building-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+Building desktop software, native tooling, automation systems, and things that probably didn't need to be this complicated.
+
+<br>
+
+<a href="https://opela.team/">
+<img src="https://img.shields.io/badge/OPELA-111827?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://github.com/jynxzio5">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://discord.gg/evuchXXC3">
+<img src="https://img.shields.io/badge/DISCORD-111827?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+Opela+Nexus;Rust+%2B+TypeScript+%2B+C%2B%2B+%2B+C%23;Desktop+Software+%26+Native+Tooling;Systems+Architecture;Reverse+Engineering;Always+building+something." />
 
 </div>
 
-<br/>
+---
+
+## `01` — ABOUT
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  JNX                                                         │
+│                                                              │
+│  I build software across the boundary between applications  │
+│  and the systems underneath them.                            │
+│                                                              │
+│  My work focuses on:                                         │
+│                                                              │
+│  → Desktop applications                                      │
+│  → Native / low-level tooling                                │
+│  → Systems architecture                                      │
+│  → Automation                                                │
+│  → Reverse engineering                                       │
+│  → Real-time communication                                   │
+│  → Developer tooling                                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+I like taking complicated systems, tearing them apart, understanding how they work, and rebuilding them into something cleaner.
+
+Most of my projects live somewhere between **software engineering, systems programming, and experimentation.**
 
 ---
 
-### System Diagnostics & Environment
+## `02` — CURRENTLY BUILDING
 
-```zsh
-❯ jnx --sysinfo --target opela-nexus
+### OPELA NEXUS
 
-  [USER] .......... JNX (github.com/jynxzio5)
-  [SPECIALTY] ..... Systems Architecture, Desktop Suites, Process Loaders
-  [FLAGSHIP] ...... Opela Nexus [23,519 LOC across 98 files]
-  [CORE STACK] .... Rust • C++ • C# • TypeScript • JSON • CSS
-  [ECOSYSTEM] ..... Clicky, Mono-Injector, Gamble-Menu, op-loader
-  [PORTAL] ........ https://opela.team/
-  [STATUS] ........ [ONLINE] Engineering next-gen desktop & native tooling
-  [MOTTO] ......... "the winner takes it all, the loser has to fall"
+**A desktop software ecosystem built around gaming, utilities, and modular tooling.**
+
+<a href="https://opela.team/">
+<img src="https://img.shields.io/badge/OPELA%20NEXUS-EXPLORE-7dd3fc?style=for-the-badge&labelColor=050505&color=111827"/>
+</a>
+
+```text
+                    OPELA NEXUS
+                         │
+             ┌───────────┴───────────┐
+             │                       │
+         DESKTOP                  SERVICES
+             │                       │
+      ┌──────┼──────┐         ┌──────┴──────┐
+      │      │      │         │             │
+     UI   NATIVE   DATA     APIs        REALTIME
+      │      │      │         │             │
+      └──────┴──────┴─────────┴─────────────┘
+                         │
+                    RUST / TAURI
+```
+
+The project combines a modern desktop interface with native components, APIs, structured data, and real-time infrastructure.
+
+---
+
+## `03` — TECH STACK
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,cs,ts,js,python&perline=7" />
+
+<br><br>
+
+### Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=tauri,react,nextjs,nodejs,dotnet,qt,tailwind&perline=7" />
+
+<br><br>
+
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,mongodb,redis,postgres&perline=6" />
+
+</div>
+
+---
+
+## `04` — PROJECTS
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### OPELA NEXUS
+
+Desktop application ecosystem built with a combination of **Rust, Tauri, TypeScript, and native tooling**.
+
+`Rust` `Tauri` `TypeScript` `CSS`
+
+<a href="https://opela.team/">
+<img src="https://img.shields.io/badge/Website-Visit-7dd3fc?style=flat-square&labelColor=111827"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### CLICKY
+
+Desktop automation software focused on fast input handling and programmable macros.
+
+`C#` `.NET` `Win32`
+
+<a href="https://github.com/jynxzio5/Clicky">
+<img src="https://img.shields.io/badge/Repository-View-7dd3fc?style=flat-square&labelColor=111827"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### MONO-INJECTOR
+
+A native tool for working with managed Mono / Unity assemblies.
+
+`C++` `Mono` `Assembly`
+
+<a href="https://github.com/jynxzio5/Mono-Injector">
+<img src="https://img.shields.io/badge/Repository-View-7dd3fc?style=flat-square&labelColor=111827"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### GAME TOOLING
+
+Experimenting with native overlays, runtime interaction, memory structures, and game-specific tooling.
+
+`C++` `Reverse Engineering` `Native`
+
+<a href="https://github.com/jynxzio5">
+<img src="https://img.shields.io/badge/GitHub-Explore-7dd3fc?style=flat-square&labelColor=111827"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `05` — ENGINEERING
+
+```text
+SYSTEMS
+├── Rust
+├── C / C++
+├── C#
+├── Native Windows APIs
+└── Process / Runtime Architecture
+
+APPLICATIONS
+├── Tauri
+├── React
+├── TypeScript
+├── .NET
+└── Desktop UX
+
+BACKEND
+├── Node.js
+├── REST APIs
+├── WebSockets
+├── Authentication
+└── Real-time Systems
+
+INFRASTRUCTURE
+├── Linux
+├── Docker
+├── Git
+├── PostgreSQL
+├── Redis
+└── MongoDB
 ```
 
 ---
 
-### About Me
+## `06` — WHAT I LIKE BUILDING
 
-Welcome to my workspace. I am a software engineer and vibecoder dedicated to low-level systems architecture, high-speed desktop software, and integration-heavy product engineering. My work bridges bare-metal execution speed with refined, modern interfaces.
+<table>
+<tr>
+<td width="33%" align="center">
 
-- **Systems Architecture & Security**: Auditing, reversing, and hardening application runtimes. Crafting modular architectures built for performance and structural reliability.
-- **Desktop Suites & Utility Ecosystem**: Engineering **Opela Nexus** (a localized desktop store application with complex modular architecture), **Clicky** (macro & automation engine), and native loaders.
-- **Reverse Engineering & Memory Tooling**: Developing open-source assembly loaders such as **Mono-Injector** and real-time in-game UI menus with direct memory offset hooks.
-- **Discord Bot Systems**: Designing stateful bot infrastructures equipped with role-based access controls (RBAC), finite state machines, and synchronized game logic.
-- **Full-Stack Engineering**: Delivering localized JSON data normalization, low-latency API protocol bindings, and responsive modern user interfaces with TypeScript, React, and Next.js.
+### ⚙️ SYSTEMS
 
----
+Native applications
+Process architecture
+Runtime tooling
+Performance-focused code
 
-### Featured Projects
+</td>
 
-<div align="center">
+<td width="33%" align="center">
 
-| Project | Role / Type | Tech Stack | Highlights | Access |
-| :--- | :--- | :--- | :--- | :---: |
-| **Opela Nexus** | Desktop Suite & Store | `Rust` `TypeScript` `CSS` | Flagship localized store, launcher & utility architecture (23.5k+ LOC) | [**opela.team ↗**](https://opela.team/) |
-| **Clicky** | Desktop Automation | `C#` `Win32` `.NET` | High-speed desktop auto clicker & programmable macro execution engine | [**View Repo ↗**](https://github.com/jynxzio5/Clicky) |
-| **Mono-Injector** | Loader / Tool | `C++` `Mono` `Assembly` | Open-source managed Mono/Unity assembly injector and runtime loader | [**View Repo ↗**](https://github.com/jynxzio5/Mono-Injector) |
-| **Gamble Menu** | Game Tooling & UI | `C++` `Reverse Eng` | Dynamic in-game UI overlay & memory offset hooks for Gamble With Your Friends | [**View Repo ↗**](https://github.com/jynxzio5/Gamble-with-friends-Menu) |
+### 🖥️ DESKTOP
 
-</div>
+Tauri applications
+Windows tooling
+Custom interfaces
+Automation software
 
----
+</td>
 
-### Opela Nexus — Codebase Deep Dive
+<td width="33%" align="center">
 
-<p align="center">
-  <em>An architectural snapshot of the flagship <strong>Opela Nexus</strong> multi-language suite</em>
-</p>
+### 🧪 RESEARCH
 
-<table align="center">
-  <tr>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Files-98-38bdf8?style=flat-square&logo=files&logoColor=white" alt="Files" /><br/>
-      <strong>98</strong><br/>
-      <sub>Total Files</sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Lines-23%2C519-00f0ff?style=flat-square&logo=codeforces&logoColor=white" alt="LOC" /><br/>
-      <strong>23,519</strong><br/>
-      <sub>Lines of Code</sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Whitespace-2%2C312-94a3b8?style=flat-square" alt="Blank Lines" /><br/>
-      <strong>2,312</strong><br/>
-      <sub>Blank Lines</sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Comments-688-a855f7?style=flat-square" alt="Comments" /><br/>
-      <strong>688</strong><br/>
-      <sub>Comment Lines</sub>
-    </td>
-  </tr>
+Reverse engineering
+Protocol analysis
+Runtime behavior
+Security research
+
+</td>
+</tr>
 </table>
 
-<br/>
-
-<div align="center">
-
-#### Core Language Distribution
-
-| Language | Files | Code Lines | Share | Visual Proportion |
-| :--- | :---: | ---: | :---: | :--- |
-| **JSON** | 13 | 7,516 | **32.0%** | `████████████░░░░░░░` |
-| **CSS** | 20 | 6,774 | **28.8%** | `███████████░░░░░░░░` |
-| **TypeScript** | 29 | 4,955 | **21.1%** | `████████░░░░░░░░░░░` |
-| **Rust** | 19 | 3,421 | **14.5%** | `█████░░░░░░░░░░░░░░` |
-| **C++** | 1 | 487 | **2.1%** | `█░░░░░░░░░░░░░░░░░░` |
-
-<details>
-<summary><strong>Click to view Auxiliary Stack Breakdown</strong></summary>
-<br/>
-
-| Language | Files | Code Lines | Language | Files | Code Lines |
-| :--- | :---: | ---: | :--- | :---: | ---: |
-| **Markdown** | 1 | 92 | **PowerShell** | 1 | 43 |
-| **C/C++ Header** | 3 | 71 | **HTML** | 2 | 33 |
-| **JavaScript** | 3 | 63 | **XML** | 2 | 9 |
-| **TOML** | 1 | 47 | **SVG** | 3 | 8 |
-
-</details>
-
-</div>
-
-<p align="center">
-  <sub><strong>Architectural Insight:</strong> Built around a rich TypeScript & CSS interface surface, powered by high-performance Rust native backends and structured data assets for a responsive, cross-language suite.</sub>
-</p>
-
 ---
 
-### Languages, Tools & Frameworks
+## `07` — GITHUB
 
 <div align="center">
 
-  <!-- Category Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Systems-Rust%20%7C%20C%2B%2B%20%7C%20C%20%7C%20C%23-00f0ff?style=flat-square&logo=rust&logoColor=white" alt="Systems" />
-    <img src="https://img.shields.io/badge/Web-TypeScript%20%7C%20React%20%7C%20Next.js-38bdf8?style=flat-square&logo=typescript&logoColor=white" alt="Web" />
-    <img src="https://img.shields.io/badge/Styling-Tailwind%20%7C%20Modern%20CSS-a855f7?style=flat-square&logo=tailwindcss&logoColor=white" alt="Styling" />
-    <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python-34d399?style=flat-square&logo=nodedotjs&logoColor=white" alt="Backend" />
-    <img src="https://img.shields.io/badge/Infra-Docker%20%7C%20Linux%20%7C%20Git-10b981?style=flat-square&logo=docker&logoColor=white" alt="Infra" />
-  </p>
+<img src="https://github-readme-stats.vercel.app/api?username=jynxzio5&show_icons=true&hide_border=true&bg_color=050505&title_color=7dd3fc&text_color=94a3b8&icon_color=7dd3fc&rank_icon=github" height="165"/>
 
-  <!-- Skill Icons Grid -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,cpp,c,cs,ts,js,python,react,nextjs,tailwind,nodejs,docker,linux,git,mongodb,redis,postgres,qt&perline=9" alt="Tech Stack Icons" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jynxzio5&layout=compact&hide_border=true&bg_color=050505&title_color=7dd3fc&text_color=94a3b8" height="165"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jynxzio5&hide_border=true&background=050505&ring=7dd3fc&fire=7dd3fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7dd3fc&sideLabels=94a3b8&dates=64748b" />
 
 </div>
 
 ---
 
-### GitHub Analytics & Activity
+## `08` — CONNECT
 
 <div align="center">
 
-  <!-- GitHub Metrics SVG generated by Lowlighter Action -->
-  <p>
-    <img src="github-metrics.svg" alt="GitHub Metrics" width="92%" />
-  </p>
+<a href="https://opela.team/">
+<img src="https://img.shields.io/badge/OPELA%20TEAM-050505?style=for-the-badge&logoColor=white"/>
+</a>
 
-  <!-- GitHub Streak Stats -->
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jynxzio5&theme=tokyonight&hide_border=true&background=0b1021&ring=00f0ff&fire=00f0ff&currStreakNum=00f0ff&currStreakLabel=a855f7&sideNums=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak Stats" />
-  </p>
+<a href="https://discord.gg/evuchXXC3">
+<img src="https://img.shields.io/badge/DISCORD-050505?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://github.com/jynxzio5">
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<br><br>
 
-<div align="center">
+```text
+> build
+> break
+> understand
+> rebuild
+```
 
-  <!-- Signature Quote -->
-  <blockquote>
-    <em>"The winner takes it all, the loser has to fall."</em>
-  </blockquote>
+<br>
 
-  <!-- Connect / Collaboration CTA -->
-  <p>
-    <a href="https://discord.gg/evuchXXC3">
-      <img src="https://img.shields.io/badge/Join%20Discord-Opela%20Nexus-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" />
-    </a>
-    <a href="https://opela.team/">
-      <img src="https://img.shields.io/badge/Visit%20Website-opela.team-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=070a14" alt="Visit Website" />
-    </a>
-    <a href="mailto:motassemhwarat@gmail.com">
-      <img src="https://img.shields.io/badge/Contact-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
-  <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,11,1&height=100&section=footer" width="100%" alt="Footer Banner" />
-
-  <sub>© 2026 JNX // Engineered with precision and passion.</sub>
+<sub>JNX · Opela Team · 2026</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:111827,50:0b1220,100:050505" width="100%"/>
