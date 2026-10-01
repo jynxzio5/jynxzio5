@@ -35,26 +35,47 @@ Building desktop software, native tooling, automation systems, and things that p
 
 ## `01` — ABOUT
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  JNX                                                         │
-│                                                              │
-│  I build software across the boundary between applications  │
-│  and the systems underneath them.                            │
-│                                                              │
-│  My work focuses on:                                         │
-│                                                              │
-│  → Desktop applications                                      │
-│  → Native / low-level tooling                                │
-│  → Systems architecture                                      │
-│  → Automation                                                │
-│  → Reverse engineering                                       │
-│  → Real-time communication                                   │
-│  → Developer tooling                                         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### JNX
+
+I build software across the boundary between **applications and the systems underneath them**.
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**FOCUS**
+
+- 🖥️ Desktop Applications
+- ⚙️ Native / Low-Level Tooling
+- 🧩 Systems Architecture
+- 🤖 Automation
+
+</td>
+
+<td width="50%" valign="top">
+
+**EXPLORING**
+
+- 🔬 Reverse Engineering
+- 🌐 Real-Time Communication
+- 🛠️ Developer Tooling
+- 🚀 Performance Engineering
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 I like taking complicated systems, tearing them apart, understanding how they work, and rebuilding them into something cleaner.
 
@@ -75,6 +96,8 @@ Desktop application ecosystem built with a combination of **Rust, Tauri, TypeScr
 
 `Rust` `Tauri` `TypeScript` `CSS`
 
+<br>
+
 <a href="https://opela.team/">
 <img src="https://img.shields.io/badge/Website-Visit-7dd3fc?style=flat-square&labelColor=111827"/>
 </a>
@@ -88,6 +111,8 @@ Desktop application ecosystem built with a combination of **Rust, Tauri, TypeScr
 Desktop automation software focused on fast input handling and programmable macros.
 
 `C#` `.NET` `Win32`
+
+<br>
 
 <a href="https://github.com/jynxzio5/Clicky">
 <img src="https://img.shields.io/badge/Repository-View-7dd3fc?style=flat-square&labelColor=111827"/>
@@ -107,6 +132,8 @@ A native tool for working with managed Mono / Unity assemblies.
 
 `C++` `Mono` `Assembly`
 
+<br>
+
 <a href="https://github.com/jynxzio5/Mono-Injector">
 <img src="https://img.shields.io/badge/Repository-View-7dd3fc?style=flat-square&labelColor=111827"/>
 </a>
@@ -120,6 +147,8 @@ A native tool for working with managed Mono / Unity assemblies.
 Experimenting with native overlays, runtime interaction, memory structures, and game-specific tooling.
 
 `C++` `Reverse Engineering` `Native`
+
+<br>
 
 <a href="https://github.com/jynxzio5">
 <img src="https://img.shields.io/badge/GitHub-Explore-7dd3fc?style=flat-square&labelColor=111827"/>
