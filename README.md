@@ -33,12 +33,19 @@ Building desktop software, native tooling, automation systems, and things that p
 
 ---
 
-## `01` — ABOUT
+## `01` —  — GITHUB
 
+<div align="center">
 
-I like taking complicated systems, tearing them apart, understanding how they work, and rebuilding them into something cleaner.
+<img src="https://github-readme-stats.vercel.app/api?username=jynxzio5&show_icons=true&hide_border=true&bg_color=050505&title_color=7dd3fc&text_color=94a3b8&icon_color=7dd3fc&rank_icon=github" height="165"/>
 
-Most of my projects live somewhere between **software engineering, systems programming, and experimentation.**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jynxzio5&layout=compact&hide_border=true&bg_color=050505&title_color=7dd3fc&text_color=94a3b8" height="165"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jynxzio5&hide_border=true&background=050505&ring=7dd3fc&fire=7dd3fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7dd3fc&sideLabels=94a3b8&dates=64748b" />
+
+</div>
 
 ---
 
@@ -136,21 +143,6 @@ Experimenting with native overlays, runtime interaction, memory structures, and 
 
 ---
 
-## `04` — GITHUB
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jynxzio5&show_icons=true&hide_border=true&bg_color=050505&title_color=7dd3fc&text_color=94a3b8&icon_color=7dd3fc&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jynxzio5&layout=compact&hide_border=true&bg_color=050505&title_color=7dd3fc&text_color=94a3b8" height="165"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jynxzio5&hide_border=true&background=050505&ring=7dd3fc&fire=7dd3fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7dd3fc&sideLabels=94a3b8&dates=64748b" />
-
-</div>
-
----
 
 <div align="center">
 
