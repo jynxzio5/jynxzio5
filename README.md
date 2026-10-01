@@ -174,15 +174,6 @@ Experimenting with native overlays, runtime interaction, memory structures, and 
 
 <div align="center">
 
-```text
-> build
-> break
-> understand
-> rebuild
-```
-
-<br>
-
 <sub>JNX · Opela Team · 2026</sub>
 
 </div>
