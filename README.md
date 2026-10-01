@@ -33,7 +33,7 @@ Building desktop software, native tooling, automation systems, and things that p
 
 ---
 
-## `01` —  GITHUB
+## `01` — GITHUB
 
 <div align="center">
 
@@ -71,6 +71,7 @@ Building desktop software, native tooling, automation systems, and things that p
 
 </div>
 
+---
 
 ## `03` — PROJECTS
 
@@ -93,46 +94,14 @@ Desktop application ecosystem built with a combination of **Rust, Tauri, TypeScr
 
 <td width="50%" valign="top">
 
-### CLICKY
+### ONP-SDK
 
-Desktop automation software focused on fast input handling and programmable macros.
+Software development kit for the **Opela Nexus Protocol (ONP)**, focused on real-time communication and protocol integration.
 
-`C#` `.NET` `Win32`
+`Rust` `TypeScript` `WebSocket` `Protocol`
 
-<a href="https://github.com/jynxzio5/Clicky">
+<a href="https://github.com/jynxzio5/ONP-SDK">
 <img src="https://img.shields.io/badge/Repository-View-7dd3fc?style=flat-square&labelColor=111827"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### MONO-INJECTOR
-
-A native tool for working with managed Mono / Unity assemblies.
-
-`C++` `Mono` `Assembly`
-
-<a href="https://github.com/jynxzio5/Mono-Injector">
-<img src="https://img.shields.io/badge/Repository-View-7dd3fc?style=flat-square&labelColor=111827"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### GAME TOOLING
-
-Experimenting with native overlays, runtime interaction, memory structures, and game-specific tooling.
-
-`C++` `Reverse Engineering` `Native`
-
-<a href="https://github.com/jynxzio5">
-<img src="https://img.shields.io/badge/GitHub-Explore-7dd3fc?style=flat-square&labelColor=111827"/>
 </a>
 
 </td>
@@ -141,8 +110,6 @@ Experimenting with native overlays, runtime interaction, memory structures, and 
 </table>
 
 ---
-
-
 
 <div align="center">
 
