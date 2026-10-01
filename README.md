@@ -1,125 +1,41 @@
+## `01` — WHO AM I?
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=JNX&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=SYSTEMS%20%E2%80%A2%20DESKTOP%20%E2%80%A2%20SOFTWARE&descAlignY=65&descSize=14&descColor=8b9bb4&color=0:050505,50:0b1220,100:111827" width="100%"/>
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│                         J N X                                   │
+│                                                                 │
+│              SOFTWARE ENGINEER / BUILDER                        │
+│                                                                 │
+│       I build things I want to exist.                          │
+│       Then I figure out how they work.                          │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 <br>
 
-<a href="https://github.com/jynxzio5">
-  <img src="https://github.com/jynxzio5.png?size=160" width="110" height="110" alt="JNX"/>
-</a>
+### `JNX`
 
-<br><br>
+I'm a software engineer focused on **desktop applications, systems programming, native tooling, and experimental software**.
 
-# JNX
-
-**Software Engineer · Systems Builder · Vibecoder**
-
-Building desktop software, native tooling, automation systems, and things that probably didn't need to be this complicated.
+I enjoy working close to the system — understanding how things work underneath the interface, designing the architecture, and turning ideas into actual software.
 
 <br>
 
-<a href="https://opela.team/">
-<img src="https://img.shields.io/badge/OPELA-111827?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://github.com/jynxzio5">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://discord.gg/evuchXXC3">
-<img src="https://img.shields.io/badge/DISCORD-111827?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+`Rust` · `C++` · `C#` · `TypeScript` · `Tauri` · `Node.js`
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+Opela+Nexus;Rust+%2B+TypeScript+%2B+C%2B%2B+%2B+C%23;Desktop+Software+%26+Native+Tooling;Systems+Architecture;Reverse+Engineering;Always+building+something." />
+> **Build it. Break it. Understand it. Rebuild it.**
 
 </div>
 
 ---
 
-## `01` — ABOUT
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  JNX                                                         │
-│                                                              │
-│  I build software across the boundary between applications  │
-│  and the systems underneath them.                            │
-│                                                              │
-│  My work focuses on:                                         │
-│                                                              │
-│  → Desktop applications                                      │
-│  → Native / low-level tooling                                │
-│  → Systems architecture                                      │
-│  → Automation                                                │
-│  → Reverse engineering                                       │
-│  → Real-time communication                                   │
-│  → Developer tooling                                         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-I like taking complicated systems, tearing them apart, understanding how they work, and rebuilding them into something cleaner.
-
-Most of my projects live somewhere between **software engineering, systems programming, and experimentation.**
-
----
-
-## `02` — CURRENTLY BUILDING
-
-### OPELA NEXUS
-
-**A desktop software ecosystem built around gaming, utilities, and modular tooling.**
-
-<a href="https://opela.team/">
-<img src="https://img.shields.io/badge/OPELA%20NEXUS-EXPLORE-7dd3fc?style=for-the-badge&labelColor=050505&color=111827"/>
-</a>
-
-```text
-                    OPELA NEXUS
-                         │
-             ┌───────────┴───────────┐
-             │                       │
-         DESKTOP                  SERVICES
-             │                       │
-      ┌──────┼──────┐         ┌──────┴──────┐
-      │      │      │         │             │
-     UI   NATIVE   DATA     APIs        REALTIME
-      │      │      │         │             │
-      └──────┴──────┴─────────┴─────────────┘
-                         │
-                    RUST / TAURI
-```
-
-The project combines a modern desktop interface with native components, APIs, structured data, and real-time infrastructure.
-
----
-
-## `03` — TECH STACK
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=rust,cpp,c,cs,ts,js,python&perline=7" />
-
-<br><br>
-
-### Frameworks & Tools
-
-<img src="https://skillicons.dev/icons?i=tauri,react,nextjs,nodejs,dotnet,qt,tailwind&perline=7" />
-
-<br><br>
-
-### Infrastructure
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,mongodb,redis,postgres&perline=6" />
-
-</div>
-
----
-
-## `04` — PROJECTS
+## `02` — PROJECTS
 
 <table>
 <tr>
@@ -174,7 +90,7 @@ A native tool for working with managed Mono / Unity assemblies.
 
 ### GAME TOOLING
 
-Experimenting with native overlays, runtime interaction, memory structures, and game-specific tooling.
+Experiments involving native overlays, runtime interaction, memory structures, and game-specific tooling.
 
 `C++` `Reverse Engineering` `Native`
 
@@ -189,83 +105,31 @@ Experimenting with native overlays, runtime interaction, memory structures, and 
 
 ---
 
-## `05` — ENGINEERING
+## `03` — TECH STACK
 
-```text
-SYSTEMS
-├── Rust
-├── C / C++
-├── C#
-├── Native Windows APIs
-└── Process / Runtime Architecture
+<div align="center">
 
-APPLICATIONS
-├── Tauri
-├── React
-├── TypeScript
-├── .NET
-└── Desktop UX
+### Languages
 
-BACKEND
-├── Node.js
-├── REST APIs
-├── WebSockets
-├── Authentication
-└── Real-time Systems
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,cs,ts,js,python&perline=7" />
 
-INFRASTRUCTURE
-├── Linux
-├── Docker
-├── Git
-├── PostgreSQL
-├── Redis
-└── MongoDB
-```
+<br><br>
+
+### Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=tauri,react,nextjs,nodejs,dotnet,qt,tailwind&perline=7" />
+
+<br><br>
+
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,mongodb,redis,postgres&perline=6" />
+
+</div>
 
 ---
 
-## `06` — WHAT I LIKE BUILDING
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### ⚙️ SYSTEMS
-
-Native applications
-Process architecture
-Runtime tooling
-Performance-focused code
-
-</td>
-
-<td width="33%" align="center">
-
-### 🖥️ DESKTOP
-
-Tauri applications
-Windows tooling
-Custom interfaces
-Automation software
-
-</td>
-
-<td width="33%" align="center">
-
-### 🧪 RESEARCH
-
-Reverse engineering
-Protocol analysis
-Runtime behavior
-Security research
-
-</td>
-</tr>
-</table>
-
----
-
-## `07` — GITHUB
+## `04` — GITHUB
 
 <div align="center">
 
@@ -281,35 +145,12 @@ Security research
 
 ---
 
-## `08` — CONNECT
-
 <div align="center">
-
-<a href="https://opela.team/">
-<img src="https://img.shields.io/badge/OPELA%20TEAM-050505?style=for-the-badge&logoColor=white"/>
-</a>
-
-<a href="https://discord.gg/evuchXXC3">
-<img src="https://img.shields.io/badge/DISCORD-050505?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://github.com/jynxzio5">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-```text
-> build
-> break
-> understand
-> rebuild
-```
-
-<br>
 
 <sub>JNX · Opela Team · 2026</sub>
 
-</div>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:111827,50:0b1220,100:050505" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111827,50:0b1220,100:050505" width="100%"/>
+
+</div>
