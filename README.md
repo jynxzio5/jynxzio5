@@ -49,7 +49,30 @@ Building desktop software, native tooling, automation systems, and things that p
 
 ---
 
-## `02` — PROJECTS
+## `02` — TECH STACK
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,cs,ts,js,python&perline=7" />
+
+<br><br>
+
+### Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=tauri,react,nextjs,nodejs,dotnet,qt,tailwind&perline=7" />
+
+<br><br>
+
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,mongodb,redis,postgres&perline=6" />
+
+</div>
+
+
+## `03` — PROJECTS
 
 <table>
 <tr>
@@ -119,29 +142,6 @@ Experimenting with native overlays, runtime interaction, memory structures, and 
 
 ---
 
-## `03` — TECH STACK
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=rust,cpp,c,cs,ts,js,python&perline=7" />
-
-<br><br>
-
-### Frameworks & Tools
-
-<img src="https://skillicons.dev/icons?i=tauri,react,nextjs,nodejs,dotnet,qt,tailwind&perline=7" />
-
-<br><br>
-
-### Infrastructure
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,mongodb,redis,postgres&perline=6" />
-
-</div>
-
----
 
 
 <div align="center">
