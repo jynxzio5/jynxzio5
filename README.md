@@ -33,7 +33,7 @@ Building desktop software, native tooling, automation systems, and things that p
 
 ---
 
-## `01` —  — GITHUB
+## `01` —  GITHUB
 
 <div align="center">
 
