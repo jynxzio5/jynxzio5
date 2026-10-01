@@ -1,37 +1,64 @@
-## `01` — WHO AM I?
-
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│                         J N X                                   │
-│                                                                 │
-│              SOFTWARE ENGINEER / BUILDER                        │
-│                                                                 │
-│       I build things I want to exist.                          │
-│       Then I figure out how they work.                          │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=JNX&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=SYSTEMS%20%E2%80%A2%20DESKTOP%20%E2%80%A2%20SOFTWARE&descAlignY=65&descSize=14&descColor=8b9bb4&color=0:050505,50:0b1220,100:111827" width="100%"/>
 
 <br>
 
-### `JNX`
+<a href="https://github.com/jynxzio5">
+  <img src="https://github.com/jynxzio5.png?size=160" width="110" height="110" alt="JNX"/>
+</a>
 
-I'm a software engineer focused on **desktop applications, systems programming, native tooling, and experimental software**.
+<br><br>
 
-I enjoy working close to the system — understanding how things work underneath the interface, designing the architecture, and turning ideas into actual software.
+# JNX
+
+**Software Engineer · Systems Builder · Vibecoder**
+
+Building desktop software, native tooling, automation systems, and things that probably didn't need to be this complicated.
 
 <br>
 
-`Rust` · `C++` · `C#` · `TypeScript` · `Tauri` · `Node.js`
+<a href="https://opela.team/">
+<img src="https://img.shields.io/badge/OPELA-111827?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://github.com/jynxzio5">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br>
+<br><br>
 
-> **Build it. Break it. Understand it. Rebuild it.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+Opela+Nexus;Rust+%2B+TypeScript+%2B+C%2B%2B+%2B+C%23;Desktop+Software+%26+Native+Tooling;Systems+Architecture;Reverse+Engineering;Always+building+something." />
 
 </div>
+
+---
+
+## `01` — ABOUT
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  JNX                                                         │
+│                                                              │
+│  I build software across the boundary between applications  │
+│  and the systems underneath them.                            │
+│                                                              │
+│  My work focuses on:                                         │
+│                                                              │
+│  → Desktop applications                                      │
+│  → Native / low-level tooling                                │
+│  → Systems architecture                                      │
+│  → Automation                                                │
+│  → Reverse engineering                                       │
+│  → Real-time communication                                   │
+│  → Developer tooling                                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+I like taking complicated systems, tearing them apart, understanding how they work, and rebuilding them into something cleaner.
+
+Most of my projects live somewhere between **software engineering, systems programming, and experimentation.**
 
 ---
 
@@ -90,7 +117,7 @@ A native tool for working with managed Mono / Unity assemblies.
 
 ### GAME TOOLING
 
-Experiments involving native overlays, runtime interaction, memory structures, and game-specific tooling.
+Experimenting with native overlays, runtime interaction, memory structures, and game-specific tooling.
 
 `C++` `Reverse Engineering` `Native`
 
@@ -147,10 +174,17 @@ Experiments involving native overlays, runtime interaction, memory structures, a
 
 <div align="center">
 
+```text
+> build
+> break
+> understand
+> rebuild
+```
+
+<br>
+
 <sub>JNX · Opela Team · 2026</sub>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111827,50:0b1220,100:050505" width="100%"/>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:111827,50:0b1220,100:050505" width="100%"/>
